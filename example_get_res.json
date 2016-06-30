@@ -1,0 +1,13 @@
+{
+  "needs_update": true,
+  "desired_values": [
+    {
+      "id": "led_1",
+      "value": false
+    },
+    {
+      "id": "servo",
+      "value": 58
+    }
+  ]
+}
