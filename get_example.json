@@ -1,20 +1,20 @@
 {
     "deviceId": "xxxxxxxxxxxxxx",
     "deviceKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "IO" = [
+    "IO": [
         {
             "id": "led_1",
-            "value": True,
+            "value": true,
             "type": "DO"
         },
         {
             "id": "led_2",
-            "value": True,
+            "value": true,
             "type": "DO"
         },
         {
             "id": "push_1",
-            "value": True,
+            "value": true,
             "type": "DI"
         },
         {
