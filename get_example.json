@@ -1,33 +1,33 @@
 {
-    'deviceId': 'xxxxxxxxxxxxxx',
-    'deviceKey': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-    'IO' = [
+    "deviceId": "xxxxxxxxxxxxxx",
+    "deviceKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "IO" = [
         {
-            'id': 'led_1',
-            'value': True,
-            'type': 'DO'
+            "id": "led_1",
+            "value": True,
+            "type": "DO"
         },
         {
-            'id': 'led_2',
-            'value': True,
-            'type': 'DO'
+            "id": "led_2",
+            "value": True,
+            "type": "DO"
         },
         {
-            'id': 'push_1',
-            'value': True,
-            'type': 'DI'
+            "id": "push_1",
+            "value": True,
+            "type": "DI"
         },
         {
-            'id': 'CPU_temperature',
-            'value': 50,
-            'unit': 'Celsius',
-            'type': 'DI'
+            "id": "CPU_temperature",
+            "value": 50,
+            "unit": "Celsius",
+            "type": "DI"
         },
         {
-            'id': 'servo_1',
-            'value': 108,
-            'unit': 'rad',
-            'type': 'DO'
+            "id": "servo_1",
+            "value": 108,
+            "unit": "rad",
+            "type": "DO"
         }
     ]
 }
