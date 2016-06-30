@@ -21,13 +21,13 @@
             "id": "CPU_temperature",
             "value": 50,
             "unit": "Celsius",
-            "type": "DI"
+            "type": "AI"
         },
         {
             "id": "servo_1",
             "value": 108,
             "unit": "rad",
-            "type": "DO"
+            "type": "AO"
         }
     ]
 }
